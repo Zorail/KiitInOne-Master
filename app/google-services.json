@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "622468878068",
+    "firebase_url": "https://allinone-97420.firebaseio.com",
+    "project_id": "allinone-97420",
+    "storage_bucket": "allinone-97420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622468878068:android:b522185fece4657a",
+        "android_client_info": {
+          "package_name": "app.kiit.kshitijsharma.allinone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622468878068-acv55gecjf0l6gn6c5bmp2t1i3bco55u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.kiit.kshitijsharma.allinone",
+            "certificate_hash": "C5FF564D4A02B7FF6736A31208610D196BFD77CB"
+          }
+        },
+        {
+          "client_id": "622468878068-e3f3sjrg45cpnii46ujmobibrhgc4umf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIIq3y3nfIiqHgL-4f-vxYdbb1nS4IZgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622468878068-e3f3sjrg45cpnii46ujmobibrhgc4umf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
